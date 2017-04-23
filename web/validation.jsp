@@ -1,7 +1,7 @@
 <%-- 
     Document   : register
     Created on : May 29, 2015, 3:46:10 AM
-    Author     : hammad
+    Author     : sami
 --%>
 
 <%@page import="java.io.IOException"%>
